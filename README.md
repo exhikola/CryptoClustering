@@ -3,7 +3,7 @@ Question 1: What is the best value for k in our original scaled data?
 Answer 1: The best value for k in our original scaled data is 4.
 
 Question 2: What is the total explained variance of the three principal components in our PCA?
-Answer 2: The total explained variance of the three principal components in our PCA is 88%.
+Answer 2: The total explained variance of the three principal components in our PCA is  89.50%.
 
 Question 3: What is the best value for k when using the PCA data?
 The best value for k when using the PCA data is 4.
